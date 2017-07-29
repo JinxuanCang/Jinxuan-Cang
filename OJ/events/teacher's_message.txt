@@ -1,5 +1,0 @@
-	Welcome to the PHP-Campus
-	A platform that trasforming K-12 education. PHP-Campus is a platform that intending to merge grades system, student information, online contact platform, online assignment, online reference, classroom tools, school tools and district tools into one system.
-	PHP-Campus also has several by-products, such as Smart Table(developing), Smart Chart(developing), Windows Command Prompt Simulator, Events Regulator, Interactive Grade Book(future developement),User API Applications, and File System Regulator and Editor.
-	PHP-Campus is a platform that developing without plugging in  JQuery(R) framework portion and any other animation framework. All the functions are written in <u><b>pure</b></u> Javascript and PHP. All the HTML tags and animations are written in <u><b>pure</b></u> HTML 5 language and CSS 3 style format.
-Jinxuan Cang -PHP-Campus founder and developer.

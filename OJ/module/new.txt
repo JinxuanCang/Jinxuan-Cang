@@ -1,3 +1,0 @@
-The Apache2.4 service is stopping.............
-The Apache2.4 service was stopped successfully.
-

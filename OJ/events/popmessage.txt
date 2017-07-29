@@ -1,1 +1,0 @@
-IMPORTANT NOTICE: table.js is undergoing updating. IP Trancer, Testing Table and any other page that requires to use table.js will be temporarily unavailable.
