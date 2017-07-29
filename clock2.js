@@ -1,10 +1,10 @@
-﻿/*
+/*
 	J.C.'s Online Software (c) 2017 Aug
-    PHP-Campus Version 3.3
-    Dynamic clock function module. **Brand new version of clock.js
-    Not every individual .php(extension) file requires this library.
-    Programmer: Jinxuan Cang
-    **Inspired by PHP Date(function)
+	PHP-Campus Version 3.3
+	Dynamic clock function module. **Brand new version of clock.js
+	Not every individual .php(extension) file requires this library.
+	Programmer: Jinxuan Cang
+	**Inspired by PHP Date(function)
 */
 //testing version
 function time2(pass_str) {
