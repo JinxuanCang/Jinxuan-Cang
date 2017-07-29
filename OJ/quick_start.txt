@@ -1,0 +1,5 @@
+OJ Copyright2012-2016 Jinxuan Cang ²Ö¾¢Ðù
+Apache Copyright2003-2013 Design group
+PHP Copyright1997-2014 PHP group
+Free Pasal Copyright1992-2009 Design group
+develop started 2016.1.29

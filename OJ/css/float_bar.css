@@ -1,0 +1,41 @@
+.float_bar {
+    bottom: 0;
+    position: fixed;
+}
+#float_bar_left {
+  left: 0;
+}
+#float_bar_right {
+  right: 0;
+}
+.float_bar_elt {
+  font-size: 14px;
+  display: inline-block;
+  padding: 2px;
+}
+.float_bar_elt:hover {
+  color: white;
+}
+.float_bar_child {
+  position: fixed;
+  bottom: 20;
+  width: 300px;
+  z-index: 10;
+  border-radius: 5px;
+  left: 0;
+  display: none;
+}
+.float_bar_child:not(.nonborder) {
+  border: 2px solid dimgray;
+  background-color: whitesmoke;    
+}
+.nonborder fieldset {
+  box-shadow: 0 0 30px black;
+}
+.float_bar_elt {
+  background-color: var(--500);
+}
+.float_bar_elt:hover, .float_bar_elt_clicked{
+  background-color: var(--800);
+  color: white;
+}

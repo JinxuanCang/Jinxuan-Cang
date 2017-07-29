@@ -1,0 +1,15 @@
+#popmessage {
+        /*width: 100%;*/
+		padding: 12px 20px;
+		box-sizing: border-box;
+		font-family:Sans-serif;
+		background-color: #eff9fc;
+		border:1px solid blue;
+        border-radius: 5px;
+        display:none;
+        position: fixed;
+        box-shadow: 0 0 100px black;
+        z-index: 100;
+        transition: opacity 5s;
+        /*opacity: 0;*/
+	}

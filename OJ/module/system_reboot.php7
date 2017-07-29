@@ -1,0 +1,3 @@
+<?php
+	system("call ../bin/reboot.cmd");
+?>

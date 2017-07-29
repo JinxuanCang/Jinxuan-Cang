@@ -1,0 +1,6 @@
+:root {
+	--font: arial;
+}
+#vertical_bar li a,#vertical_bar .tag {
+    font-size: 14px;/*font-size:15px;*/
+}
