@@ -4,7 +4,7 @@
     Dynamic clock function module. **Brand new version of clock.js
     Not every individual .php(extension) file requires this library.
     Programmer: Jinxuan Cang
-    **Inspired by PHP Date(function)
+    **Inspired by PHP Date(function)// check 1 and 2
 */
 //testing version
 function time2(pass_str) {
