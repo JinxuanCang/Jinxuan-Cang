@@ -1,0 +1,10 @@
+#define potentially encounter error path
+ErrorDocument 403 /forbidden/Unauthorized%20Action(UA)
+ErrorDocument 404 /forbidden/File%20Not%20Found(FNF)
+ErrorDocument 500 /forbidden/Internal%20Server%20Error(ISE)
+#define rewrite
+RewriteEngine On
+RewriteRule ^console?$ /admin/console.php
+RewriteRule ^updater?$ /views/updater.php
+RewriteRule ^terms_of_service?$ /views/terms_of_service.php
+RewriteRule ^forbidden/([a-zA-Z\ ()]+) /views/forbidden.php?reason=$1
